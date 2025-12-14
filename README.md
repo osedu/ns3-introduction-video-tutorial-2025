@@ -6,7 +6,8 @@
 ## 第3章 学习资源
 ## 第4章 ns3入门
 ## 第5章 ns3核心概念
+## 第6章 微调Tweaking
 
 
 
-Updated on November 18, 2025
+Updated on December 14, 2025
